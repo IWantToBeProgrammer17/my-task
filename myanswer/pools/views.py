@@ -8,4 +8,4 @@ def index(request):
     return HttpResponse("Hello, world. You're at the polls index.")
 
 def kedua(request):
-    return HttpResponse("Hello, world. kedua")
+    return HttpResponse("Hello, otherworld.")
